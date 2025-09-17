@@ -106,5 +106,5 @@ If you use this framework in your research, please cite ():
   title={Blockchain-Assisted Federated Learning with HSIC Auditing for Malicious Client Detection},
   author={Bhavya Chauhan},
   year={2025},
-  journal={Under Submission}
+  conderence={Under Submission}
 }
