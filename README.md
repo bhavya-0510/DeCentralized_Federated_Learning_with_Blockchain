@@ -16,7 +16,7 @@ Blockchain-inspired integrity: Each client update is signed and verified before 
 This code is structured for research prototyping, reproducibility, and extension into publishable results.
 
 1. Clone this repository
-git clone https://github.com/yourusername/federated_blockchain_FL.git
+git clone https://github.com/bhavya-0510/federated_blockchain_FL.git
 cd federated_blockchain_FL
 
 2. Install dependencies
